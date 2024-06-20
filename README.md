@@ -7,21 +7,13 @@ Welcome to the Minecraft Modding Project! This repository contains code and reso
 This project is aimed at helping beginners get started with Minecraft modding. Whether you're looking to add new items, blocks, or custom features to the game, this repository provides the foundational code and tutorials you need.
 
 ## Features
-
-- Sample mods to kickstart your learning
-- Tutorials and guides for creating your own mods
-- Example code for common modding tasks
+- Project hasn't completed yet...
 
 ## Getting Started
 
 To get started with this project, follow these steps:
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/minecraft-modding-project.git
-    ```
-2. Set up your development environment by following the instructions in the `docs/setup.md` file.
-3. Explore the `examples` directory for sample mods and code snippets.
+
 
 ## Requirements
 
